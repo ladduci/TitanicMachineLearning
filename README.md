@@ -1,7 +1,7 @@
 # TitanicMachineLearning
-Machine Learning algorithms applied on the Titanic dataset using Python
+## Machine Learning algorithms applied on the Titanic dataset using Python.
 
-Following the Machine Learning tutorial from
-ogrisel/parallel_ml_tutorial
+Following the (great) Machine Learning Tutorial from
+[ogrisel/parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial)
 
-The "Logistic Regression", "Random Forest" and "Gradient Boosting" classifiers have been applied and comparedusing pandas and scikit-learn in Python to the Titanic dataset.
+The "Logistic Regression", "Random Forest" and "Gradient Boosting" classifiers have been applied and compared using scikit-learn, and pandas in Python. This is a binary classification problem.
